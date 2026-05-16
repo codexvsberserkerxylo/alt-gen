@@ -10,8 +10,6 @@ this python file generates roblox [[1]](https://www.roblox.com/) alt accounts [[
 ### installation
 ```bash
 git clone https://github.com/codexvsberserkerxylo/alt-gen/
-
-or download the .zip of it ig
 ```
 
 # credits
