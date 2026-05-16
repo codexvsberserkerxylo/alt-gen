@@ -29,7 +29,7 @@ headless = True # if headless = true then u dont see the browser i would use fal
 threads = 3 # how many browsers
 attempts = 50 # how many attempts / how many accounts, at around 20 there will be captchas if u dont use a proxy wtv
 output = "accounts.txt" # output file obvs
-webhook = "https://discord.com/api/webhooks/1504195913391014099/HADHm0kUQEiefQ7axulRovOOuffPzGvNWSWMVnVbL-vJzf9yTMLGvrPvmYq0J4hMaa-3" # webhook if u have one
+webhook = "webhook_url" # webhook if u have one
 
 file_lock = threading.Lock()
 
